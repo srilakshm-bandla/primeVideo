@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.movies-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.movies-container {
+  max-width: 800px;
+}
+.thumbnail-image {
+  width: 180px;
+  height: 80px;
+}
